@@ -25,13 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-- [x] This is a complete item
-- [ ] This is an incomplete item
-
-When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
-
-And, of course emoji! :sparkles: :camel: :boom:
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
