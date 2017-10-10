@@ -1,3 +1,5 @@
+name: Rick Wear
 theme: jekyll-theme-cayman
 title: Welcome to Rick's Homepage
 description: First Website Page on GitHub
+markdown: kramdown
