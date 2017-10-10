@@ -2,7 +2,7 @@
 
 [Physics Classroom](http://www.physicsclassroom.com/)
 
-[Maths Classroom](http://http://www.mathcentre.ac.uk/)
+[Maths Classroom](http://www.mathcentre.ac.uk/)
 
 You can use the [editor on GitHub](https://github.com/rickwear/rickwear.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
