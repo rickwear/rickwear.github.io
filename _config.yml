@@ -3,3 +3,4 @@ theme: jekyll-theme-cayman
 title: Welcome to Rick's Homepage
 description: First Website Page on GitHub
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
